@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Game Dev\\learn-opengl\\learn-opengl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T16:31:37.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
