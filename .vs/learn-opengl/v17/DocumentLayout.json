@@ -3,27 +3,20 @@
   "WorkspaceRootPath": "C:\\Game Dev\\learn-opengl\\learn-opengl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\4.textures.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:4.textures.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\4.Textures.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:4.Textures.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Game Dev\\learn-opengl\\learn-opengl\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C310A5B0-E868-4018-BF1D-F8F424DC224B}|learn-opengl.vcxproj|C:\\Users\\super\\Downloads\\glad\\src\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,47 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "shader.fs",
-              "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\shader.fs",
-              "RelativeDocumentMoniker": "shader.fs",
-              "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\shader.fs",
-              "RelativeToolTip": "shader.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-30T18:08:38.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "shader.vs",
-              "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\shader.vs",
-              "RelativeDocumentMoniker": "shader.vs",
-              "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\shader.vs",
-              "RelativeToolTip": "shader.vs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-30T18:07:03.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "glad.c",
-              "DocumentMoniker": "C:\\Users\\super\\Downloads\\glad\\src\\glad.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\super\\Downloads\\glad\\src\\glad.c",
-              "ToolTip": "C:\\Users\\super\\Downloads\\glad\\src\\glad.c",
-              "RelativeToolTip": "..\\..\\..\\Users\\super\\Downloads\\glad\\src\\glad.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-30T16:06:21.357Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -82,33 +36,46 @@
               "RelativeDocumentMoniker": "Shader.cpp",
               "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\Shader.cpp",
               "RelativeToolTip": "Shader.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAABsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-30T15:59:48.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shader.h",
-              "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\Shader.h",
-              "RelativeDocumentMoniker": "Shader.h",
-              "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\Shader.h",
-              "RelativeToolTip": "Shader.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-30T15:59:42.644Z",
+              "WhenOpened": "2024-04-30T23:32:37.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "4.textures.fs",
+              "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\4.textures.fs",
+              "RelativeDocumentMoniker": "4.textures.fs",
+              "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\4.textures.fs",
+              "RelativeToolTip": "4.textures.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T21:01:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.textures.vs",
+              "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\4.textures.vs",
+              "RelativeDocumentMoniker": "4.textures.vs",
+              "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\4.textures.vs",
+              "RelativeToolTip": "4.textures.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T21:00:01.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Game Dev\\learn-opengl\\learn-opengl\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Game Dev\\learn-opengl\\learn-opengl\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGIAAAASAAAA",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAL8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-25T16:31:37.654Z",
               "EditorCaption": ""
