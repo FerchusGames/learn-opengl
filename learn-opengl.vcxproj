@@ -142,8 +142,10 @@
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="4.textures.fs" />
-    <None Include="4.textures.vs" />
+    <None Include="4_textures.fs" />
+    <None Include="4_textures.vs" />
+    <None Include="5_coordinate_systems.fs" />
+    <None Include="5_coordinate_systems.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />

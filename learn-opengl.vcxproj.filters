@@ -43,10 +43,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="4.textures.fs">
+    <None Include="4_textures.fs">
       <Filter>Source Files\Shaders</Filter>
     </None>
-    <None Include="4.textures.vs">
+    <None Include="4_textures.vs">
+      <Filter>Source Files\Shaders</Filter>
+    </None>
+    <None Include="5_coordinate_systems.vs">
+      <Filter>Source Files\Shaders</Filter>
+    </None>
+    <None Include="5_coordinate_systems.fs">
       <Filter>Source Files\Shaders</Filter>
     </None>
   </ItemGroup>
